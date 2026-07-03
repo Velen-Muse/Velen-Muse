@@ -60,18 +60,18 @@ A growing collection of browser games built entirely with HTML, CSS, and JavaScr
 
 ## 📊 GitHub Stats
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=Velen-Muse&show_icons=true&theme=github_dark" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Velen-Muse&layout=compact&theme=github_dark" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br clear="both" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Velen-Muse&show_icons=true&theme=github_dark&hide_border=true"
+    width="420"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Velen-Muse&layout=compact&theme=github_dark&hide_border=true"
+    width="420"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
