@@ -1,6 +1,6 @@
-# 👋 About Me
+# 👋 Welcome to My Profile!
 
-> Welcome to my GitHub profile! I'm a passionate developer who enjoys building interactive web applications, browser games, and creative software projects.
+> I'm a passionate developer who enjoys building interactive web applications, browser games, and creative software projects.
 
 ---
 
@@ -18,15 +18,14 @@ Whether it's building browser games, experimenting with new technologies, or sol
 
 ### Languages
 
-- HTML5
-- CSS3
-- JavaScript
+- **HTML5:** Crafting well-structured, semantic web pages.
+- **CSS3:** Designing responsive layouts with modern styling.
+- **JavaScript:** Building dynamic functionality and interactive user experiences.
 
 ### Tools
 
-- Git
-- GitHub
-- Visual Studio Code
+- **Git & GitHub:** Version control and collaboration.
+- **Visual Studio Code:** My preferred environment for writing and debugging clean code.
 
 ---
 
@@ -36,8 +35,8 @@ Whether it's building browser games, experimenting with new technologies, or sol
 
 A growing collection of browser games built entirely with HTML, CSS, and JavaScript.
 
-**Repository**
-- https://github.com/Velen-Muse/Custom-Web-Games
+**Repository:**
+- [🎮 Play / View Custom Web Games](https://github.com/Velen-Muse/Custom-Web-Games)
 
 ---
 
@@ -63,9 +62,6 @@ A growing collection of browser games built entirely with HTML, CSS, and JavaScr
 
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Velen-Muse&show_icons=true&theme=github_dark" alt="GitHub Stats" width="400" />
-</div>
-<br />
-<div align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Velen-Muse&layout=compact&theme=github_dark" alt="Top Languages" width="400" />
 </div>
 
@@ -81,7 +77,7 @@ A growing collection of browser games built entirely with HTML, CSS, and JavaScr
 
 ## 📫 Connect
 
-- GitHub: https://github.com/Velen-Muse
+- **GitHub:** [Velen-Muse](https://github.com/Velen-Muse)
 
 ---
 
