@@ -62,8 +62,8 @@ A growing collection of browser games built entirely with HTML, CSS, and JavaScr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velen-Muse&show_icons=true&theme=github_dark" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velen-Muse&layout=compact&theme=github_dark" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Velen-Muse&show_icons=true&theme=github_dark" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Velen-Muse&layout=compact&theme=github_dark" alt="Top Languages" height="195" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ A growing collection of browser games built entirely with HTML, CSS, and JavaScr
 ## 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Velen-Muse&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Velen-Muse&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 ---
